@@ -1,3 +1,6 @@
-# aprendizado
-Este repositório é primeiro repossitório que faço ele vem para servir como a mostra da minha evolução em HTML e CSS.
-Os arquivos aqui listados servem para que possam ver a evolução do meu portifólio.
+# Evolução Python
+Olá muito bem vindo! Este respósitorio a seguir serve somente para que eu mostre e mantenha meu aprendizado online.
+
+Sugestões em códigos serão muito bem-vindas.
+
+Aprender nunca é demais, conhecimentos sempre será um investimento!
